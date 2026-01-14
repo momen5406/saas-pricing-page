@@ -16,7 +16,7 @@ This specific project is a **[Saas Pricing Page]** designed to [aggregate social
 
 * **Framework:** [React]
 * **Styling:** [Tailwind CSS]
-* **Deployment:** [Github Pages]
+* **Deployment:** [Vercel]
 
 ## 💡 Key Features
 
